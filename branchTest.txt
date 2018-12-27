@@ -1,2 +1,3 @@
 new branch is quick
-branch  master
+
+branch feature1
